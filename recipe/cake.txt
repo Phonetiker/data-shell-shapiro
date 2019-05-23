@@ -6,3 +6,4 @@ eggs
 chocolate chips
 vanilla essence
 baking powder
+more sugar
