@@ -3,4 +3,6 @@ flour
 sugar
 milk
 eggs
-
+chocolate chips
+vanilla essence
+baking powder
